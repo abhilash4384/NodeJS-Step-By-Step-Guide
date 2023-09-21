@@ -11,6 +11,6 @@ Welcome to the NodeJS Concepts repository! Here you'll find a collection of reso
 5. Callback
 6. Events
 7. Express-Framework
-8. CRUD, Image upload Handling Backend-App
+8. CRUD | Image upload | JWT | YUP validation | prisma(Relational DB) Backend-App
 9. Frontend App in react to support Backend-App
 10. Postman Collection
